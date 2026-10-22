@@ -1,6 +1,1 @@
-Hello, Hexlet! How are you?
-no code no pain
-experiment with amend
-experiment with amend
-lalala
-blabla
+[![show-directory](https://github.com/VikaGuzeeva/hexlet-git/actions/workflows/hello-world.yml/badge.svg)](https://github.com/VikaGuzeeva/hexlet-git/actions/workflows/hello-world.yml)
