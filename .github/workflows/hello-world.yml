@@ -1,4 +1,4 @@
-name: show-directory
+name: Hello World Workflow
 on: push
 jobs:
   build:
